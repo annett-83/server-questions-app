@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "67rdca3eeb7f6fgeed471198",
+    "name": "химия",
+    "color": "primary"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471100",
+    "name": "физика",
+    "color": "warning"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed4711012",
+    "name": "немецкий язык",
+    "color": "danger"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed4716015",
+    "name": "биология",
+    "color": "success"
+  }
+]

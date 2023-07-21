@@ -1,0 +1,6 @@
+{
+    "port": 8080,
+    "mongoUri": "mongodb+srv://auksutat:questionTest123@cluster0.vlnf6c2.mongodb.net/?retryWrites=true&w=majority",
+    "accessSecret": "c3VwZXIgc2VjcmV0IGZyb20gYmFja2VuZA==",
+    "refreshSecret": "c3VwZXIgcmVmcmVzY2gga2V5"
+}
